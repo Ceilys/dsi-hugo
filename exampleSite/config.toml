@@ -1,26 +1,26 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://ceilys.ovh/dsi"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "fr"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
-[[menu.footer]]
-URL = "tools"
-name = "Mon entourage"
-weight = 2
+title = "Je me digitalise"
 [[menu.footer]]
 URL = "contact"
-name = "Me contacter"
+name = "Contact"
 weight = 1
-[[menu.main]]
+[[menu.footer]]
 URL = "tools"
-name = "Mon entourage"
+name = "tools"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Me contacter"
+name = "Contact"
 weight = 1
+[[menu.main]]
+URL = "tools"
+name = "tools"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
