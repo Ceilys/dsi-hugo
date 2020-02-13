@@ -5,9 +5,9 @@ tools:
   - name: Karlia - CRM / facturation et bien plus
     image: "/images/karlia.jpg"
     link: https://karlia.fr/
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
+  - name: Iabako - simple et facile
+    image: "/images/iabako.jpg"
+    link: https://www.iabako.com/fr/
 - title: Design Tools
   tool:
   - name: Sketch
