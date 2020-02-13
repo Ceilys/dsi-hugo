@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: Contactez-moi
+description: Page de contact Christophe
+image: images/contact.svg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+Je suis à votre écoute. Nous pouvons faire un diagnostic ensemble de votre digitalisation. 
