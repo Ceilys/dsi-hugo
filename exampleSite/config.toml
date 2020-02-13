@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Northendlab | Blog Template"
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Mon entourage"
 weight = 2
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Me contacter"
 weight = 1
 [[menu.main]]
 URL = "tools"
